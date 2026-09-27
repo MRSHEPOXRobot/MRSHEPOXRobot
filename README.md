@@ -2,7 +2,7 @@
 
 # Ahmed Mohamed
 
-### AI Engineer · NLP & LLM Engineer
+### AI Engineer · Arabic NLP & LLM Engineer
 
 Building practical AI systems with **NLP, LLMs, RAG & Deep Learning**
 
@@ -20,45 +20,32 @@ I'm an **AI Engineer** with hands-on experience building and deploying
 end-to-end AI systems across **NLP and Large Language Models** — from
 model training to production-grade APIs and scalable infrastructure.
 
-My main interests are:
-
-- 🤖 Natural Language Processing
-- 🧠 Large Language Models
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🇪🇬 Arabic & Bilingual NLP
-- ⚡ Efficient Deep Learning
-- 🚀 Model Deployment & Serving
-- 📦 Model Compression & Quantization
-
-I'm particularly interested in building **small, efficient, and
-production-ready AI systems**.
-
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 RAG System — In Progress
+###  RAG System 
 
 Production-grade bilingual **English & Arabic RAG API** built with
 a focus on scalability and asynchronous processing.
 
 **Highlights**
 
-- ⚡ FastAPI + Async SQLAlchemy architecture
-- 🔎 Qdrant & PostgreSQL vector search
-- 🧠 OpenAI-compatible LLM interface
-- 🔄 Provider-agnostic LLM architecture
-- 🐳 Docker-based deployment
-- 📊 Prometheus & Grafana observability
-- 🌐 Arabic + English document retrieval
-- 🔧 Support for interchangeable vector database backends
+-  FastAPI + Async SQLAlchemy architecture
+-  Qdrant & PostgreSQL vector search
+-  OpenAI-compatible LLM interface
+-  Provider-agnostic LLM architecture
+-  Docker-based deployment
+-  Prometheus & Grafana observability
+-  Arabic + English document retrieval
+-  Support for interchangeable vector database backends
 
 **Stack:**  
 `Python` `FastAPI` `Qdrant` `PostgreSQL` `SQLAlchemy` `Docker` `Prometheus` `Grafana`
 
 ---
 
-### 🧠 ArabicLLM — Arabic News NLP Fine-Tuning
+###  ArabicLLM — Arabic News NLP Fine-Tuning
 
 Fine-tuned **Qwen2.5-1.5B** for Arabic NLP tasks using
 **LoRA** and **LLaMA-Factory**.
@@ -78,7 +65,7 @@ Fine-tuned **Qwen2.5-1.5B** for Arabic NLP tasks using
 
 ---
 
-### 💳 Credit Card Fraud Detection
+###  Credit Card Fraud Detection
 
 Machine learning system designed for highly imbalanced
 credit-card transaction data.
@@ -97,7 +84,7 @@ credit-card transaction data.
 
 ---
 
-### 🚕 NYC Trip Duration Prediction
+###  NYC Trip Duration Prediction
 
 Machine learning system for predicting NYC taxi trip duration.
 
@@ -114,9 +101,9 @@ Machine learning system for predicting NYC taxi trip duration.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
-### 🤖 AI / Machine Learning
+###  AI / Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -124,7 +111,7 @@ Machine learning system for predicting NYC taxi trip duration.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🧠 NLP / LLM
+###  NLP / LLM
 
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
@@ -133,7 +120,7 @@ Machine learning system for predicting NYC taxi trip duration.
 `Transformers` · `vLLM` · `LoRA` · `LLaMA-Factory`  
 `RAG` · `Fine-Tuning` · `Prompt Engineering` · `Arabic NLP`
 
-### ⚙️ Backend / Deployment
+###  Backend / Deployment
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -141,13 +128,13 @@ Machine learning system for predicting NYC taxi trip duration.
 
 `SQLAlchemy` · `Pydantic` · `Qdrant` · `Prometheus` · `Grafana`
 
-### 🛠️ Tools
+###  Tools
 
 `Git` · `GitHub` · `VS Code` · `PyCharm` · `Jupyter Notebook` · `Kaggle`
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 ```text
 Arabic NLP
