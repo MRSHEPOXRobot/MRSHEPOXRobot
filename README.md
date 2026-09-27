@@ -6,7 +6,7 @@
 
 Building practical AI systems with **NLP, LLMs, RAG & Deep Learning**
 
-📍 Cairo, Egypt · ✉️ a7med.ml.eng@gmail.com
+ Cairo, Egypt · ✉️ a7med.ml.eng@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/mrshepoxrobot/) · [GitHub](https://github.com/MRSHEPOXRobot)
 
@@ -14,7 +14,7 @@ Building practical AI systems with **NLP, LLMs, RAG & Deep Learning**
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm an **AI Engineer** with hands-on experience building and deploying
 end-to-end AI systems across **NLP and Large Language Models** — from
@@ -52,13 +52,13 @@ Fine-tuned **Qwen2.5-1.5B** for Arabic NLP tasks using
 
 **Highlights**
 
-- 🇪🇬 Arabic NLP specialization
-- 🎯 Structured JSON output
-- 🧠 LoRA fine-tuning
-- ⚡ vLLM inference
-- 📚 Teacher-model knowledge distillation
-- 🔬 NER, summarization, keywords & categorization
-- 🚀 Production inference server
+-  Arabic NLP specialization
+-  Structured JSON output
+-  LoRA fine-tuning
+-  vLLM inference
+-  Teacher-model knowledge distillation
+-  NER, summarization, keywords & categorization
+-  Production inference server
 
 **Stack:**  
 `Python` `PyTorch` `Transformers` `Qwen` `LoRA` `LLaMA-Factory` `vLLM`
@@ -132,26 +132,6 @@ Machine learning system for predicting NYC taxi trip duration.
 
 `Git` · `GitHub` · `VS Code` · `PyCharm` · `Jupyter Notebook` · `Kaggle`
 
----
-
-##  Current Focus
-
-```text
-Arabic NLP
-    ↓
-LLM Fine-Tuning
-    ↓
-Efficient Inference
-    ↓
-RAG Systems
-    ↓
-Production AI
-
-
-<!--
-**MRSHEPOXRobot/MRSHEPOXRobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
