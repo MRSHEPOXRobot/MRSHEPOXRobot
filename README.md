@@ -6,7 +6,7 @@
 
 Building practical AI systems with **NLP, LLMs, RAG & Deep Learning**
 
- Cairo, Egypt · ✉️ a7med.ml.eng@gmail.com
+ Cairo, Egypt · ✉️ ahmed.ml.eng1@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/mrshepoxrobot/) · [GitHub](https://github.com/MRSHEPOXRobot)
 
